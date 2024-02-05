@@ -14,6 +14,7 @@
 		26FEFE2E2B71112A00AF3E0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26FEFE2D2B71112A00AF3E0B /* Assets.xcassets */; };
 		26FEFE312B71112A00AF3E0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26FEFE2F2B71112A00AF3E0B /* LaunchScreen.storyboard */; };
 		26FEFE392B71132B00AF3E0B /* brick-2997965_640.png in Resources */ = {isa = PBXBuildFile; fileRef = 26FEFE382B71132B00AF3E0B /* brick-2997965_640.png */; };
+		26FEFE3B2B71199C00AF3E0B /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26FEFE3A2B71199C00AF3E0B /* CustomView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		26FEFE302B71112A00AF3E0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		26FEFE322B71112A00AF3E0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		26FEFE382B71132B00AF3E0B /* brick-2997965_640.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "brick-2997965_640.png"; sourceTree = "<group>"; };
+		26FEFE3A2B71199C00AF3E0B /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				26FEFE242B71112900AF3E0B /* AppDelegate.swift */,
 				26FEFE262B71112900AF3E0B /* SceneDelegate.swift */,
 				26FEFE282B71112900AF3E0B /* ViewController.swift */,
+				26FEFE3A2B71199C00AF3E0B /* CustomView.swift */,
 				26FEFE2A2B71112900AF3E0B /* Main.storyboard */,
 				26FEFE2D2B71112A00AF3E0B /* Assets.xcassets */,
 				26FEFE2F2B71112A00AF3E0B /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				26FEFE292B71112900AF3E0B /* ViewController.swift in Sources */,
+				26FEFE3B2B71199C00AF3E0B /* CustomView.swift in Sources */,
 				26FEFE252B71112900AF3E0B /* AppDelegate.swift in Sources */,
 				26FEFE272B71112900AF3E0B /* SceneDelegate.swift in Sources */,
 			);
