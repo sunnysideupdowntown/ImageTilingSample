@@ -13,6 +13,7 @@
 		26FEFE2C2B71112900AF3E0B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26FEFE2A2B71112900AF3E0B /* Main.storyboard */; };
 		26FEFE2E2B71112A00AF3E0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26FEFE2D2B71112A00AF3E0B /* Assets.xcassets */; };
 		26FEFE312B71112A00AF3E0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26FEFE2F2B71112A00AF3E0B /* LaunchScreen.storyboard */; };
+		26FEFE392B71132B00AF3E0B /* brick-2997965_640.png in Resources */ = {isa = PBXBuildFile; fileRef = 26FEFE382B71132B00AF3E0B /* brick-2997965_640.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		26FEFE2D2B71112A00AF3E0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		26FEFE302B71112A00AF3E0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		26FEFE322B71112A00AF3E0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26FEFE382B71132B00AF3E0B /* brick-2997965_640.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "brick-2997965_640.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				26FEFE2D2B71112A00AF3E0B /* Assets.xcassets */,
 				26FEFE2F2B71112A00AF3E0B /* LaunchScreen.storyboard */,
 				26FEFE322B71112A00AF3E0B /* Info.plist */,
+				26FEFE382B71132B00AF3E0B /* brick-2997965_640.png */,
 			);
 			path = ImageTilingBackground;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				26FEFE392B71132B00AF3E0B /* brick-2997965_640.png in Resources */,
 				26FEFE312B71112A00AF3E0B /* LaunchScreen.storyboard in Resources */,
 				26FEFE2E2B71112A00AF3E0B /* Assets.xcassets in Resources */,
 				26FEFE2C2B71112900AF3E0B /* Main.storyboard in Resources */,
