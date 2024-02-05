@@ -16,9 +16,6 @@
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="brick-2997965_640.png" translatesAutoresizingMaskIntoConstraints="NO" id="VF9-Nv-qbs">
-                                <rect key="frame" x="0.0" y="59" width="393" height="759"/>
-                            </imageView>
                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PuJ-Pp-ZWg">
                                 <rect key="frame" x="0.0" y="59" width="393" height="759"/>
                                 <subviews>
@@ -47,11 +44,7 @@
                             <constraint firstItem="PuJ-Pp-ZWg" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="QHE-f8-XKi"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="PuJ-Pp-ZWg" secondAttribute="trailing" id="QSb-Jc-9pw"/>
                             <constraint firstItem="PuJ-Pp-ZWg" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="gPb-no-8Jr"/>
-                            <constraint firstItem="VF9-Nv-qbs" firstAttribute="leading" secondItem="PuJ-Pp-ZWg" secondAttribute="leading" id="hgI-GX-Key"/>
-                            <constraint firstItem="VF9-Nv-qbs" firstAttribute="bottom" secondItem="PuJ-Pp-ZWg" secondAttribute="bottom" id="jPI-CQ-Sep"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="PuJ-Pp-ZWg" secondAttribute="bottom" id="meQ-pW-3zc"/>
-                            <constraint firstItem="VF9-Nv-qbs" firstAttribute="top" secondItem="PuJ-Pp-ZWg" secondAttribute="top" id="oLd-gO-0zR"/>
-                            <constraint firstItem="VF9-Nv-qbs" firstAttribute="trailing" secondItem="PuJ-Pp-ZWg" secondAttribute="trailing" id="raE-c8-Cmp"/>
                         </constraints>
                     </view>
                     <connections>
@@ -64,7 +57,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="brick-2997965_640.png" width="640" height="639"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>

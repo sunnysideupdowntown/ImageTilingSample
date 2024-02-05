@@ -13,6 +13,10 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        let image = UIImage(named: "brick-2997965_640.png")!
+        let color = UIColor(patternImage: image)
+        self.scrollViewContentView.backgroundColor = color
     }
 }
 
